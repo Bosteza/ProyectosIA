@@ -1,0 +1,19 @@
+# Shared requirements for all projects in this workspace.
+# Recommended environment: Apple Silicon arm64 Python 3.12.
+
+# crossword image export
+Pillow
+
+# parser
+nltk
+
+# shopping and traffic
+numpy
+scikit-learn
+
+# tictactoe GUI
+pygame
+
+# traffic
+opencv-python
+tensorflow
